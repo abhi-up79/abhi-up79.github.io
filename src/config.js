@@ -1,22 +1,22 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Engineer',
+  siteTitle: 'Abhishek Sharma | Student Developer',
   siteDescription:
-    'Chandrika Deb is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Abhishek Sharma is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Abhishek Sharma, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+  siteUrl: 'https://abhi-up79.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
+  name: 'Abhishek Sharma',
   location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
+  email: 'sharma.abhishek208@gmail.com',
+  github: 'https://github.com/abhi-up79',
   twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/abhi-up79',
     },
     {
       name: 'Linkedin',

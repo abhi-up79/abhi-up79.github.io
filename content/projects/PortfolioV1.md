@@ -1,8 +1,8 @@
 ---
-date: '2020-04-21'
-title: 'Portfolio Version 1'
-github: 'https://github.com/chandrikadeb7/chandrikadeb7.github.io-v1'
-external: 'https://chandrikadeb7.github.io/chandrikadeb7.github.io-v1/'
+date: '2021-06-21'
+title: 'Portfolio '
+github: 'https://github.com/abhi-up79/abhi-up79.github.io'
+external: 'https://abhi-up79.github.io/'
 tech:
   - HTML
   - CSS
@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Portfolio Website Version 1 hosted using GitHub Pages. Updates coming soon!
+Portfolio Website hosted using GitHub Pages. Updates coming soon!

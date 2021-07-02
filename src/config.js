@@ -3,16 +3,16 @@ module.exports = {
   siteDescription:
     'Abhishek Sharma is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Abhishek Sharma, Chandrika, Deb, chandrikadeb7, software engineer, web developer, javascript, girlscript, jamshedpur, amdocs, bit, mesra, deoghar',
+    'Abhishek Sharma, Abhishek, Sharma, abhi-up79, software engineer, web developer, javascript, auraiya, rajkiya',
   siteUrl: 'https://abhi-up79.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: '',
+  googleVerification: '',
   name: 'Abhishek Sharma',
-  location: 'Jamshedpur, India',
+  location: 'Auraiya, India',
   email: 'sharma.abhishek208@gmail.com',
   github: 'https://github.com/abhi-up79',
-  twitterHandle: '@chandrikadeb7',
+  twitterHandle: '@abhi_up79',
   socialMedia: [
     {
       name: 'GitHub',
@@ -20,19 +20,19 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/abhiup79/',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
+      url: 'https://codepen.io/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/___cd.___/',
+      url: 'https://www.instagram.com/abhi_up79/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
+      url: 'https://twitter.com/abhi_up79',
     },
   ],
 

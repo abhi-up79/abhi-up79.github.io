@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://abhi-up79.github.io/sitemap/sitemap-index.xml
-Host: https://abhi-up79.github.io
